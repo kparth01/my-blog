@@ -1,4 +1,4 @@
-# Sample Spring-boot "MyBLOG" Project for Gemalto Interview
+# Sample Spring-boot "MyBLOG" Project.
 
 This is a sample Java / Maven / Spring Boot (version 2.0.4) application that exposes a few web services for sample MyBLOG project.
 
